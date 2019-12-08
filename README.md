@@ -51,15 +51,13 @@ Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluate
 
 ## Deadlines
 
-- Trial data ready July 31, 2019
-- Training data ready September 4, 2019
-- Test data ready December 3, 2019
-- Evaluation start January 10, 2020
-- Evaluation end January 31, 2020
-- Paper submission due February 23, 2020
-- Notification to authors March 29, 2020
-- Camera ready due April 5, 2020
-- SemEval workshop Summer 2020
+-19 February 2020: Evaluation start*
+-11 March 2020: Evaluation end*
+-18 March 2020: Results posted
+-17 April 2020: System description paper submissions due by 23:59 GMT -12:00
+-24 April 2020: Task description paper submissions due by 23:59 GMT -12:00
+-10 June 2020: Author notifications for papers
+-1 July 2020: Camera ready submissions due
 
 ## License
 
