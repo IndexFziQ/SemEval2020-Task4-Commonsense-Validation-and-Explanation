@@ -51,13 +51,13 @@ Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluate
 
 ## Deadlines
 
--19 February 2020: Evaluation start*
--11 March 2020: Evaluation end*
--18 March 2020: Results posted
--17 April 2020: System description paper submissions due by 23:59 GMT -12:00
--24 April 2020: Task description paper submissions due by 23:59 GMT -12:00
--10 June 2020: Author notifications for papers
--1 July 2020: Camera ready submissions due
+- 19 February 2020: Evaluation start*
+- 11 March 2020: Evaluation end*
+- 18 March 2020: Results posted
+- 17 April 2020: System description paper submissions due by 23:59 GMT -12:00
+- 24 April 2020: Task description paper submissions due by 23:59 GMT -12:00
+- 10 June 2020: Author notifications for papers
+- 1 July 2020: Camera ready submissions due
 
 ## License
 
