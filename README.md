@@ -6,6 +6,8 @@ This task is inspired and extension of the ACL 2019 paper: Does It Make Sense? A
 
 Welcome to pariticipate on our Codalab competition [here](https://competitions.codalab.org/competitions/21080)!
 
+All participants are welcome to check and raise data errors at https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation/issues/9
+
 ## Introduction
 
 The task is to directly test whether a system can differentiate natural language statements that make sense from those that do not make sense. We designed three subtasks. The first task is to choose from two natural language statements with similar wordings which one makes sense and which one does not make sense; The second task is to find the key reason from three options why a given statement does not make sense; The third task asks machine to generate the reasons and we use BLEU to evaluate them.
